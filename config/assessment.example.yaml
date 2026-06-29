@@ -1,0 +1,14 @@
+scope: examples/hackerone/tiktok.scope.txt
+
+authentication:
+  type: playwright
+  profile: examples/playwright/login.yaml
+
+assessment:
+  start_url: https://example.com
+
+scenarios:
+  - resource-access
+
+report:
+  output: report.json

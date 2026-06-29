@@ -1,0 +1,10 @@
+www.soundon.global
+www.pangleglobal.com
+tiktok.com
+shop.tiktok.com
+developers.tiktok.com
+ads.tiktok.com
+*.tiktokcdn.com
+*.tiktokpublishers.com
+com.zhiliaoapp.musically
+835599320
