@@ -1,0 +1,10 @@
+users:
+  - id: user_a
+    resources:
+      - account_1001
+      - profile_1001
+
+  - id: user_b
+    resources:
+      - account_2001
+      - profile_2001

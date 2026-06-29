@@ -1,0 +1,7 @@
+base_url: https://api.example.com
+
+endpoints:
+  - GET /users/me
+  - GET /accounts
+  - GET /accounts/{id}
+  - POST /transfers

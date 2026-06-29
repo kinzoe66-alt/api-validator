@@ -1,0 +1,18 @@
+program: Example Program
+
+targets:
+  - api.example.com
+
+allowed_domains:
+  - api.example.com
+
+authentication:
+  type: playwright
+
+identities:
+  - user_a
+  - user_b
+
+rules:
+  authenticated_testing: true
+  destructive_testing: false

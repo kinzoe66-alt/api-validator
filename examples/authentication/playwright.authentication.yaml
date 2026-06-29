@@ -1,0 +1,10 @@
+provider: playwright
+
+identities:
+  - id: user_a
+    username: user_a@example.com
+    password: change_me
+
+  - id: user_b
+    username: user_b@example.com
+    password: change_me
