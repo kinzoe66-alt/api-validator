@@ -1,0 +1,3 @@
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/kinzoe66-alt/kernal-engine.git
