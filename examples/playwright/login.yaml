@@ -1,0 +1,12 @@
+base_url: https://example.com
+
+login:
+  url: /
+
+selectors:
+  username: "#username"
+  password: "#password"
+  submit: "button[type=submit]"
+
+success:
+  wait_for_url: "/"

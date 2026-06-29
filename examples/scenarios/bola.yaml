@@ -1,0 +1,9 @@
+id: bola
+
+steps:
+  - login: user_a
+  - discover_resource
+  - login: user_b
+  - request_foreign_resource
+
+contract: bola.contract.yaml
